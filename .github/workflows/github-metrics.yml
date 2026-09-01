@@ -21,4 +21,5 @@ jobs:
           user: SFEW888
           template: classic
           base: header, activity, community, repositories, metadata
+          plugin_isocalendar: no
           config_timezone: Asia/Shanghai

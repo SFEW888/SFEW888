@@ -62,17 +62,31 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SFEW888/SanFengErWang/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SFEW888/SanFengErWang/main/profile-3d-contrib/profile-green-animate.svg" />
-  <img src="https://raw.githubusercontent.com/SFEW888/SanFengErWang/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
-</picture>
-
-<img src="https://raw.githubusercontent.com/SFEW888/SanFengErWang/main/github-metrics.svg" alt="Detailed GitHub metrics" />
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SFEW888/SanFengErWang/gh-pages/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SFEW888/SanFengErWang/gh-pages/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/SFEW888/SanFengErWang/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </picture>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SFEW888&theme=github_dark" alt="GitHub profile details" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SFEW888&theme=github_dark" alt="GitHub statistics" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SFEW888&theme=github_dark" alt="Repository languages" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SFEW888&theme=github_dark" alt="Commit languages" />
+    </td>
+  </tr>
+</table>
 
 </div>
